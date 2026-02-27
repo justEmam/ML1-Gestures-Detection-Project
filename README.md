@@ -39,9 +39,9 @@ Hyperparameter tuning done using GridSearchCV with holdout validation (Predefine
 ## Results
 | Model | Val Accuracy | Test Accuracy |
 |---|---|---|
-| SVC | - | - |
-| Logistic Regression | - | - |
-| Random Forest | - | - |
+| SVC | 0.9887 | 0.9875 |
+| Logistic Regression | 0.9217 | 0.9171 |
+| Random Forest | 0.9813 | 0.9755 |
 
 ## Real-Time Demo
 Run the webcam demo with the best model:
