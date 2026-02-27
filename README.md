@@ -58,4 +58,4 @@ pip install -r requirements.txt
 ```
 
 ## Demo Video
-[Google Drive Link](#)
+[Google Drive Link](https://drive.google.com/file/d/1MZHkQt4mjfYIrlqPpCXU3NR_NY9B_tDf/view?usp=sharing)
