@@ -18,12 +18,14 @@ ML1-Gestures-Detection-Project/
 │(they appear after running)
 ├── videos/
 │   └── output_video.mp4            # Real-time demo recording
+├── assets/ #Examples from mlflow ui
 │
 ├── notebook.ipynb                  # Full EDA, training, and evaluation notebook
 ├── mlflow_version.py                        # Training pipeline with MLFlow logging
 ├── video.py                        # Real-time webcam gesture recognition
 ├── requirements.txt
 └── README.md
+
 ```
 
 ## Dataset
@@ -90,7 +92,7 @@ pip install -r requirements.txt
 
 **Train models:**
 ```bash
-python train.py
+python mlflow_version.py
 ```
 
 **Real-time webcam demo:**
