@@ -1,4 +1,4 @@
-artifact_path: file:///C:/ML1_Project/ML1-Gestures-Detection-Project/mlruns/1/models/m-b1e1b4c4cac946a59b03290f8ef375fd/artifacts
+artifact_path: file:///C:/ML1_Project/ML1-Gestures-Detection-Project/mlruns/1/models/m-81779d80d6d94b54857a99aede033a12/artifacts
 flavors:
   python_function:
     env:
@@ -15,9 +15,9 @@ flavors:
     sklearn_version: 1.7.2
     skops_trusted_types: null
 mlflow_version: 3.10.0
-model_id: m-b1e1b4c4cac946a59b03290f8ef375fd
-model_size_bytes: 10069
-model_uuid: m-b1e1b4c4cac946a59b03290f8ef375fd
+model_id: m-81779d80d6d94b54857a99aede033a12
+model_size_bytes: 1617853
+model_uuid: m-81779d80d6d94b54857a99aede033a12
 prompts: null
-run_id: a8e4468b9a684171849dd1a010412e2e
-utc_time_created: '2026-02-27 21:12:40.813259'
+run_id: 9ee87ddc37d74c1895fb46d8e72a2e48
+utc_time_created: '2026-02-27 22:34:32.998317'
